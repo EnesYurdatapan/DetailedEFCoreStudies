@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson8.AddingOperationsInR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson9.DataUpdatingInRelationalScenarios", "Lesson9.DataUpdatingInRelationalScenarios\Lesson9.DataUpdatingInRelationalScenarios\Lesson9.DataUpdatingInRelationalScenarios.csproj", "{F2C468B2-536C-4FBD-8310-AA98E4309683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson10.DeletingInRelationalScenarios", "Lesson10.DeletingInRelationalScenarios\Lesson10.DeletingInRelationalScenarios\Lesson10.DeletingInRelationalScenarios.csproj", "{7CF21F61-B95C-4253-B1FE-6BEF36DD10F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson10.DeletingInRelationalScenarios", "Lesson10.DeletingInRelationalScenarios\Lesson10.DeletingInRelationalScenarios\Lesson10.DeletingInRelationalScenarios.csproj", "{7CF21F61-B95C-4253-B1FE-6BEF36DD10F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson11.BackingFields", "Lesson11.BackingFields\Lesson11.BackingFields\Lesson11.BackingFields.csproj", "{9B4347D5-06A4-406C-A5CA-1DEEE78A560F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson12.ShadowProperties", "Lesson12.ShadowProperties\Lesson12.ShadowProperties\Lesson12.ShadowProperties.csproj", "{C5AADF00-3A43-435E-967F-5B6D765797C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{7CF21F61-B95C-4253-B1FE-6BEF36DD10F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CF21F61-B95C-4253-B1FE-6BEF36DD10F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CF21F61-B95C-4253-B1FE-6BEF36DD10F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4347D5-06A4-406C-A5CA-1DEEE78A560F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4347D5-06A4-406C-A5CA-1DEEE78A560F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4347D5-06A4-406C-A5CA-1DEEE78A560F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4347D5-06A4-406C-A5CA-1DEEE78A560F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AADF00-3A43-435E-967F-5B6D765797C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AADF00-3A43-435E-967F-5B6D765797C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AADF00-3A43-435E-967F-5B6D765797C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AADF00-3A43-435E-967F-5B6D765797C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
