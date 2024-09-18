@@ -25,11 +25,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson9.DataUpdatingInRelat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson10.DeletingInRelationalScenarios", "Lesson10.DeletingInRelationalScenarios\Lesson10.DeletingInRelationalScenarios\Lesson10.DeletingInRelationalScenarios.csproj", "{7CF21F61-B95C-4253-B1FE-6BEF36DD10F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson11.BackingFields", "Lesson11.BackingFields\Lesson11.BackingFields\Lesson11.BackingFields.csproj", "{9B4347D5-06A4-406C-A5CA-1DEEE78A560F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson11.BackingFields", "Lesson11.BackingFields\Lesson11.BackingFields\Lesson11.BackingFields.csproj", "{9B4347D5-06A4-406C-A5CA-1DEEE78A560F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson12.ShadowProperties", "Lesson12.ShadowProperties\Lesson12.ShadowProperties\Lesson12.ShadowProperties.csproj", "{C5AADF00-3A43-435E-967F-5B6D765797C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson12.ShadowProperties", "Lesson12.ShadowProperties\Lesson12.ShadowProperties\Lesson12.ShadowProperties.csproj", "{C5AADF00-3A43-435E-967F-5B6D765797C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson12.SpecializeEntityConfigurations", "Lesson12.SpecializeEntityConfigurations\Lesson12.SpecializeEntityConfigurations\Lesson12.SpecializeEntityConfigurations.csproj", "{E76D103A-EFF6-4040-B806-5ABADE96A7D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson12.SpecializeEntityConfigurations", "Lesson12.SpecializeEntityConfigurations\Lesson12.SpecializeEntityConfigurations\Lesson12.SpecializeEntityConfigurations.csproj", "{E76D103A-EFF6-4040-B806-5ABADE96A7D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson13.SpecializeEntityConfigurations2", "Lesson13.SpecializeEntityConfigurations2\Lesson13.SpecializeEntityConfigurations2\Lesson13.SpecializeEntityConfigurations2.csproj", "{2F13C0FD-A975-4A16-8E85-2C61C04A59B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson14.GeneratedValues", "Lesson14.GeneratedValues\Lesson14.GeneratedValues\Lesson14.GeneratedValues.csproj", "{6DF4202E-EB23-4A9D-BECE-D9D8D04115D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson15.IEntityTypeConfiguration&&ExceptFiles", "Lesson15.IEntityTypeConfiguration&&ExceptFiles\Lesson15.IEntityTypeConfiguration&&ExceptFiles\Lesson15.IEntityTypeConfiguration&&ExceptFiles.csproj", "{640C8538-AB3F-4656-8219-71B0BFF8605E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +99,18 @@ Global
 		{E76D103A-EFF6-4040-B806-5ABADE96A7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E76D103A-EFF6-4040-B806-5ABADE96A7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E76D103A-EFF6-4040-B806-5ABADE96A7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F13C0FD-A975-4A16-8E85-2C61C04A59B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F13C0FD-A975-4A16-8E85-2C61C04A59B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F13C0FD-A975-4A16-8E85-2C61C04A59B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F13C0FD-A975-4A16-8E85-2C61C04A59B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF4202E-EB23-4A9D-BECE-D9D8D04115D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF4202E-EB23-4A9D-BECE-D9D8D04115D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF4202E-EB23-4A9D-BECE-D9D8D04115D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF4202E-EB23-4A9D-BECE-D9D8D04115D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640C8538-AB3F-4656-8219-71B0BFF8605E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640C8538-AB3F-4656-8219-71B0BFF8605E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640C8538-AB3F-4656-8219-71B0BFF8605E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640C8538-AB3F-4656-8219-71B0BFF8605E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
