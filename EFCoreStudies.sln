@@ -51,7 +51,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson21.Index", "Lesson21.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson22.Sequence", "Lesson22.Sequence\Lesson22.Sequence\Lesson22.Sequence.csproj", "{F6513CB9-A698-4C10-9623-8E5E6968A88C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson23.EagerLoading", "Lesson23.EagerLoading\Lesson23.EagerLoading\Lesson23.EagerLoading.csproj", "{09038D5D-5E52-4DEB-92AD-AB1CD676018B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson23.EagerLoading", "Lesson23.EagerLoading\Lesson23.EagerLoading\Lesson23.EagerLoading.csproj", "{09038D5D-5E52-4DEB-92AD-AB1CD676018B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson24.ExplicitLoading", "Lesson24.ExplicitLoading\Lesson24.ExplicitLoading\Lesson24.ExplicitLoading.csproj", "{6E8DB47B-12EA-472F-8780-8D06CEDFC4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson25.LazyLoading", "Lesson25.LazyLoading\Lesson25.LazyLoading\Lesson25.LazyLoading.csproj", "{CEB3E712-D186-41B5-A158-FB3DA3ACDB80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +163,14 @@ Global
 		{09038D5D-5E52-4DEB-92AD-AB1CD676018B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09038D5D-5E52-4DEB-92AD-AB1CD676018B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09038D5D-5E52-4DEB-92AD-AB1CD676018B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8DB47B-12EA-472F-8780-8D06CEDFC4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8DB47B-12EA-472F-8780-8D06CEDFC4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8DB47B-12EA-472F-8780-8D06CEDFC4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8DB47B-12EA-472F-8780-8D06CEDFC4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB3E712-D186-41B5-A158-FB3DA3ACDB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB3E712-D186-41B5-A158-FB3DA3ACDB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB3E712-D186-41B5-A158-FB3DA3ACDB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB3E712-D186-41B5-A158-FB3DA3ACDB80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
