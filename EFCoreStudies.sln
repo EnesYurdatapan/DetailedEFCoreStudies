@@ -53,9 +53,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson22.Sequence", "Lesson
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson23.EagerLoading", "Lesson23.EagerLoading\Lesson23.EagerLoading\Lesson23.EagerLoading.csproj", "{09038D5D-5E52-4DEB-92AD-AB1CD676018B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson24.ExplicitLoading", "Lesson24.ExplicitLoading\Lesson24.ExplicitLoading\Lesson24.ExplicitLoading.csproj", "{6E8DB47B-12EA-472F-8780-8D06CEDFC4FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson24.ExplicitLoading", "Lesson24.ExplicitLoading\Lesson24.ExplicitLoading\Lesson24.ExplicitLoading.csproj", "{6E8DB47B-12EA-472F-8780-8D06CEDFC4FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson25.LazyLoading", "Lesson25.LazyLoading\Lesson25.LazyLoading\Lesson25.LazyLoading.csproj", "{CEB3E712-D186-41B5-A158-FB3DA3ACDB80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson25.LazyLoading", "Lesson25.LazyLoading\Lesson25.LazyLoading\Lesson25.LazyLoading.csproj", "{CEB3E712-D186-41B5-A158-FB3DA3ACDB80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson26.ComplexQueryOperators", "Lesson26.ComplexQueryOperators\Lesson26.ComplexQueryOperators\Lesson26.ComplexQueryOperators.csproj", "{563159C0-3BF3-42BE-ADAA-69EBAB5136B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson27.SQLQueries", "Lesson27.SQLQueries\Lesson27.SQLQueries\Lesson27.SQLQueries.csproj", "{46E8A9AB-1069-4A37-9288-7CEE8538BE8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +175,14 @@ Global
 		{CEB3E712-D186-41B5-A158-FB3DA3ACDB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEB3E712-D186-41B5-A158-FB3DA3ACDB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEB3E712-D186-41B5-A158-FB3DA3ACDB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563159C0-3BF3-42BE-ADAA-69EBAB5136B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563159C0-3BF3-42BE-ADAA-69EBAB5136B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563159C0-3BF3-42BE-ADAA-69EBAB5136B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563159C0-3BF3-42BE-ADAA-69EBAB5136B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E8A9AB-1069-4A37-9288-7CEE8538BE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E8A9AB-1069-4A37-9288-7CEE8538BE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E8A9AB-1069-4A37-9288-7CEE8538BE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E8A9AB-1069-4A37-9288-7CEE8538BE8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
