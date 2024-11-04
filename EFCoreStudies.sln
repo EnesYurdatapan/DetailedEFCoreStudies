@@ -61,9 +61,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson26.ComplexQueryOperat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson27.SQLQueries", "Lesson27.SQLQueries\Lesson27.SQLQueries\Lesson27.SQLQueries.csproj", "{46E8A9AB-1069-4A37-9288-7CEE8538BE8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson28.View", "Lesson28.View\Lesson28.View\Lesson28.View.csproj", "{10ED87FF-7046-42F4-8EA0-2DCE0B54BA67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson28.View", "Lesson28.View\Lesson28.View\Lesson28.View.csproj", "{10ED87FF-7046-42F4-8EA0-2DCE0B54BA67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson29.StoredProcedure", "Lesson29.StoredProcedure\Lesson29.StoredProcedure\Lesson29.StoredProcedure.csproj", "{4FEFFD92-51D3-4FDB-8FEA-725CB2B3C3B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson29.StoredProcedure", "Lesson29.StoredProcedure\Lesson29.StoredProcedure\Lesson29.StoredProcedure.csproj", "{4FEFFD92-51D3-4FDB-8FEA-725CB2B3C3B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson30.Scalar&InlineFunctions", "Lesson30.Scalar&InlineFunctions\Lesson30.Scalar&InlineFunctions\Lesson30.Scalar&InlineFunctions.csproj", "{496A94D4-96A0-49EB-B4BC-79370A632A7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson31.DatabaseProperty&FunctionalMethods", "Lesson31.DatabaseProperty&FunctionalMethods\Lesson31.DatabaseProperty&FunctionalMethods\Lesson31.DatabaseProperty&FunctionalMethods.csproj", "{16880EC1-A2C0-4B03-B453-1090B95CF46C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson32.KeylessEntityTypes", "Lesson32.KeylessEntityTypes\Lesson32.KeylessEntityTypes\Lesson32.KeylessEntityTypes.csproj", "{A227866C-BB80-4929-8F78-FE7DC8CD3ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson33.Logging", "Lesson33.Logging\Lesson33.Logging\Lesson33.Logging.csproj", "{56B61717-03A6-45E0-B50B-E9FCB199A52C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +203,22 @@ Global
 		{4FEFFD92-51D3-4FDB-8FEA-725CB2B3C3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FEFFD92-51D3-4FDB-8FEA-725CB2B3C3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FEFFD92-51D3-4FDB-8FEA-725CB2B3C3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496A94D4-96A0-49EB-B4BC-79370A632A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496A94D4-96A0-49EB-B4BC-79370A632A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496A94D4-96A0-49EB-B4BC-79370A632A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496A94D4-96A0-49EB-B4BC-79370A632A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16880EC1-A2C0-4B03-B453-1090B95CF46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16880EC1-A2C0-4B03-B453-1090B95CF46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16880EC1-A2C0-4B03-B453-1090B95CF46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16880EC1-A2C0-4B03-B453-1090B95CF46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A227866C-BB80-4929-8F78-FE7DC8CD3ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A227866C-BB80-4929-8F78-FE7DC8CD3ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A227866C-BB80-4929-8F78-FE7DC8CD3ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A227866C-BB80-4929-8F78-FE7DC8CD3ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B61717-03A6-45E0-B50B-E9FCB199A52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B61717-03A6-45E0-B50B-E9FCB199A52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B61717-03A6-45E0-B50B-E9FCB199A52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B61717-03A6-45E0-B50B-E9FCB199A52C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
