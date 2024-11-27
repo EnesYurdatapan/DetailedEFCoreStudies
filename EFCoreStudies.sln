@@ -85,7 +85,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson38.TemporalTables", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson39.ConnectionResiliency", "Lesson39.ConnectionResiliency\Lesson39.ConnectionResiliency\Lesson39.ConnectionResiliency.csproj", "{00A97CC1-96A0-47E8-8AC3-0EA06C4F8DEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson40.DataConcurrency", "Lesson40.DataConcurrency\Lesson40.DataConcurrency\Lesson40.DataConcurrency.csproj", "{72B82F39-72D2-4652-BBEC-51AAE45ADDD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson40.DataConcurrency", "Lesson40.DataConcurrency\Lesson40.DataConcurrency\Lesson40.DataConcurrency.csproj", "{72B82F39-72D2-4652-BBEC-51AAE45ADDD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson41.ValueConversions", "Lesson41.ValueConversions\Lesson41.ValueConversions\Lesson41.ValueConversions.csproj", "{FFF0AA05-8521-45D8-8DB8-B8B8C4E9D9B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{72B82F39-72D2-4652-BBEC-51AAE45ADDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72B82F39-72D2-4652-BBEC-51AAE45ADDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72B82F39-72D2-4652-BBEC-51AAE45ADDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF0AA05-8521-45D8-8DB8-B8B8C4E9D9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF0AA05-8521-45D8-8DB8-B8B8C4E9D9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF0AA05-8521-45D8-8DB8-B8B8C4E9D9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF0AA05-8521-45D8-8DB8-B8B8C4E9D9B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
